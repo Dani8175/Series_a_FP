@@ -1,4 +1,4 @@
-<h1>1. Estagram 소개</h1>이미지 바꿀 예정
+![image](https://github.com/Dani8175/Series_a_FP/assets/137133486/5b9259d0-a711-4750-8044-baca6a19d620)<h1>1. Estagram 소개</h1>이미지 바꿀 예정
 <img width="1272" alt="Untitled" src="https://github.com/Series-A-oreumi/Series_a_FP/assets/135521917/cb05ae65-1635-45a1-8a17-e1bb68ecdea7">
 
 <h3>부트캠프에 참여한 학생들을 위한 커뮤니티 서비스</h3>
@@ -122,7 +122,7 @@
 
 <h3>❗컨벤션 및 브랜치 전략</h3>
 
-```
+```md
 ## 브랜치 전략
 
 크게 **3종류의 브랜치를 사용**합니다.
@@ -276,7 +276,7 @@
     </td>
     <td align="center" width="150px">
       <a href="https://github.com/Dani8175" target="_blank">
-        <img src="" alt="전은태 프로필" />
+        <img src="https://avatars.githubusercontent.com/u/137133486?v=4" alt="전은태 프로필" />
       </a>
     </td>
     <td align="center" width="150px">
